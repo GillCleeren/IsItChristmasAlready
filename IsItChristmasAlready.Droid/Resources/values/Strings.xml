@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="CheckChristmas">Check if it is Christmas already!</string>
+  <string name="ApplicationName">Is It Christmas Already</string>
+  <string name="GiveFeedback">Send us feedback</string>
+  <string name="CrashApp">Crash this app now!</string>
+</resources>
